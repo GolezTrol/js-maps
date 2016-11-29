@@ -15,5 +15,8 @@
     "load-grunt-config": "^0.19.2",
     "mocha": "^3.2.0",
     "requirejs": "^2.3.2"
+  },
+  "scripts": {
+      "test": "grunt test:testonly"
   }
 }
