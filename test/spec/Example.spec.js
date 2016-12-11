@@ -3,7 +3,7 @@ define(['Example'], function(Example) {
 
     var example;
     beforeEach(function() {
-        example = {}
+        example = 7; //{}
     });
 
     describe('Example', function() {
